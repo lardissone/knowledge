@@ -1,0 +1,26 @@
+{
+  "name": "knowledge",
+  "version": "1.0.0",
+  "description": "Everything I know (work in progress)",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lardissone/knowledge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lardissone/knowledge/issues"
+  },
+  "homepage": "https://github.com/lardissone/knowledge#readme",
+  "dependencies": {
+    "vuepress-bar": "0.1.1"
+  }
+}
