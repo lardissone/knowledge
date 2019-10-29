@@ -8,5 +8,10 @@ module.exports = {
         addReadMeToFirstGroup: false,
         maxLevel: 8
     })
-  }
+  },
+  plugins: [
+    '@vuepress/last-updated',
+    '@vuepress/back-to-top',
+    '@vuepress/medium-zoom'
+  ]
 }

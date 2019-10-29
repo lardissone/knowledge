@@ -21,6 +21,8 @@
     "vuepress-bar": "0.1.1"
   },
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "1.0.0-rc.1",
+    "@vuepress/plugin-medium-zoom": "1.0.0-rc.1",
     "vuepress": "1.2.0"
   }
 }
