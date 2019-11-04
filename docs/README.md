@@ -8,3 +8,7 @@ A never ending work in progress.
 
 ## Links
 
+- [Personal website / resume](https://leandroardissone.com)
+- [Twitter](https://twitter.com/Leech)
+- [LinkedIn](https://linkedin.com/in/lardissone)
+
