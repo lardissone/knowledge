@@ -11,4 +11,5 @@ A never ending work in progress.
 - [Personal website / resume](https://leandroardissone.com)
 - [Twitter](https://twitter.com/Leech)
 - [LinkedIn](https://linkedin.com/in/lardissone)
+- [My shared bookmarks](https://pinboard.in/u:lardissone)
 

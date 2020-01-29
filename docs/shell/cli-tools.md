@@ -6,6 +6,7 @@
 - [hub](https://hub.github.com) - GitHub wrapper.
 - [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor.
 - [noti](https://github.com/variadico/noti) - monitor a process and trigger a notification.
+- [ncdu](https://dev.yorhel.nl/ncdu) - a disk usage analyzer with an ncurses interface.
 - [restic](https://restic.net) - a program that does backups right (with encryption and cloud upload).
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively searches directories for a regex pattern.
   - [rga](https://github.com/phiresky/ripgrep-all) - ripgrep but also searches PDFs, eBooks, zip, movies, etc.
