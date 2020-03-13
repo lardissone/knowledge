@@ -8,4 +8,4 @@ A list of useful Telegram bots.
 - [WhereIsMyMoneyBot](https://t.me/whereismymoneybot) -
 - [Gozilla Downloader](https://t.me/Gozilla_bot) - 
 - [GetMediaBot](https://t.me/getmediabot) - 
-- 
+- [To Kindle](https://t.me/to_kindle_bot) - Useful to send books/articles to a kindle device (using the Send-to-Kindle email address)
